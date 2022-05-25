@@ -8,6 +8,9 @@ namespace ConsoleApp1
         {
             string test = "Pandora Cube";
             Console.WriteLine(test);
+            Console.WriteLine(test);
+            Console.WriteLine(test);
+            Console.WriteLine(test);
         }
     }
 }
